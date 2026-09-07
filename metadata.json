@@ -1,0 +1,6 @@
+{
+  "name": "TextScape",
+  "description": "Game RPG berbasis teks interaktif yang didukung oleh Gemini AI sebagai Game Master.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
